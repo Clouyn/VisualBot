@@ -1,2 +1,3 @@
-# VisualQQBot
+## VisualBot
 （随便写的程序）基于Pyhton的QQ视觉方案机器人！
+# 声明：对于使用此程序产生的任何后果，需自行承担
